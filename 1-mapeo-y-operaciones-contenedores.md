@@ -33,7 +33,7 @@ Para obtener la contraseña solicitada es necesario ingresar al contenedor.
 ```
 docker exec <nombre contenedor> <comando> <argumentos opcionales>
 ```
-# COMPLETAR
+
 ### ¿Para qué se usa el comando ls?
 El comando ls en Linux y sistemas basados en Unix lista los archivos y directorios en un directorio. Por defecto, muestra los nombres de los archivos en el directorio actual.
 ### ¿Para qué sirve el argumento -l junto al comando ls?
