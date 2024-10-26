@@ -1,3 +1,1 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Para esta práctica que se enfocó en aplicaciones que se basan en bases de datos y los clientes web. Aprendi gestión de contenedores con respecto al proceso de configuracion y despliegue de servicios. Aprendí la importancia de usar variables de entorno para tener una configuración más segura, como conectar contenedores entre sí y como enlazarlos a una misma red. Esta práctica fomenta el desarrollo de habilidades en entornos de trabajo DevOps.
