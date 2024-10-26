@@ -21,10 +21,20 @@ La figura presenta el esquema creado en donde los puertos son:
 ![image](https://github.com/user-attachments/assets/eb58b443-8c7c-40c9-bdad-be389f84fe52)
 
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
+![image](https://github.com/user-attachments/assets/5f51b01d-7c26-4f0b-9b82-07f0974a59c2)
 
 ## Desde el servidor postgresl
 ### Acceder al servidor
+```
+docker exec -it mi-postgres /bin/bash
+```
+```
+psql -U postgres
+```
 ### Conectarse a la base de datos info
-# COMPLETAR
+```
+\c info
+```
 ### Realizar un select *from personas
-# AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
+![image](https://github.com/user-attachments/assets/f510be46-50ce-4809-8b5b-892503b71570)
+
